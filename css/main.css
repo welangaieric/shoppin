@@ -138,6 +138,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 8px;
     /* box-shadow: 1px 1px 3px var(--dark-grey); */
 
 }
@@ -147,9 +148,11 @@ nav{
 .carousel {
     width: 100%;
     height: 100%;
+    border-radius: 8px;
 }
 .carousel-inner{
     height: 100% !important;
+    border-radius: 8px;
 
 }
 .carousel-inner img{
